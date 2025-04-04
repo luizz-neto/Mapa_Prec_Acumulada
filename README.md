@@ -1,4 +1,4 @@
-Script voltado para o cálculo e plotagem da precipitação acumulada na América do Sul, a partir dos dados do MERGE
+Este script tem como objetivo calcular e visualizar a precipitação acumulada na América do Sul, utilizando dados do conjunto MERGE.
 
 ################################# Observação Importante #################################
 
